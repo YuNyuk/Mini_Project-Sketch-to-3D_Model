@@ -15,7 +15,8 @@
 - 생성된 이미지를 객체만 추출하여 3D 모델링
 - 추가로 음악 키워드 입력시 원하는 분위기에 맞는 BGM 생성
 
-![순서도](https://media.discordapp.net/attachments/1244871418609664067/1250275783834865664/mini_project.jpg?ex=666a598f&is=6669080f&hm=bcb79ec74bb9e6d5387f4529d9ca4844775baacccda992e9c26f3cc268306846&=&format=webp)
+![Screenshot from 2024-07-01 09-27-52](https://github.com/kccistc/intel-04/assets/142381053/a331a837-d523-4f02-b571-c995c8fcb688)
+
 
 ## Github link
 
