@@ -42,15 +42,16 @@ python main.py
 ## Result
 - GUI
   
-![GUI](https://media.discordapp.net/attachments/1244871418609664067/1250262847338844221/program_ui.png?ex=666a4d83&is=6668fc03&hm=1da050c1142f4dc543c4fa1759e366e3ea36f3f9f59ea64ef903223098bec159&=&format=webp&quality=lossless)
+![Screenshot from 2024-07-01 09-30-42](https://github.com/kccistc/intel-04/assets/142381053/039f7de3-c38c-45ff-8537-d209d559b2dd)
 
 - 원본 이미지
   
-![original](https://cdn.discordapp.com/attachments/1244871418609664067/1250262846235742228/moai.png?ex=666a4d83&is=6668fc03&hm=fb3c5ca90b5da84b80696f1461d1913db4f4e2ed3cfd4a5542b2cc156a3c1714&)
+![Screenshot from 2024-07-01 09-31-52](https://github.com/kccistc/intel-04/assets/142381053/7b9ab3ce-9af8-4365-8f7e-9488bc2767f7)
 
 - 3D 이미지
   
-![3dImage](https://media.discordapp.net/attachments/1244871418609664067/1250262846688854026/3d_moai.png?ex=666a4d83&is=6668fc03&hm=2e7d388931d19bca399f1ccda10cb92b545ed36a8bdc0131eb396150d9eba6be&=&format=webp&quality=lossless)
+![Screenshot from 2024-07-01 09-32-28](https://github.com/kccistc/intel-04/assets/142381053/d3af1359-d485-4fa0-9b0d-d82ec636885e)
+
 
 ## Demo
 
